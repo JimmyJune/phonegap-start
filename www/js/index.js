@@ -39,6 +39,6 @@ var app = {
         var completeElem = document.querySelector('#' + id + ' .complete');
         completeElem.className = completeElem.className.split('hide').join('');
 
-        alert("running here");
+        //alert("running here");
     }
 };
